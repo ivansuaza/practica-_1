@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Secret Number</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <div>
+        <h1>Numero Secreto</h1>
+        <h2>Descubre el numero secreto</h2>
+        <label id="title">Ingresa un Rango de numeros (10,20,30,..):</label> 
+        <input type="text" id="input" />
+    </div>
+    
+    <div id="buttons">
+        <button onclick="radomNumber()" id="bNumber">Generar Numero</button>
+        
+    </div>
+   
+    <h3>Intentos: <span id="attempts">0</span></h3>
+    <h3 id="message"></h3>
+    
+</body>
+<script src="secretnumber.js"></script>
+</html>
