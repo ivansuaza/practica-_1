@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\johan\\OneDrive\\Documents\\GithubConIvan\\practica-_1\\WebPrueba\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10F1188C-B5CC-422D-99FD-E138272C4DD8}|WebPrueba.csproj|c:\\users\\johan\\onedrive\\documents\\githubconivan\\practica-_1\\webprueba\\controllers\\nombrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F1188C-B5CC-422D-99FD-E138272C4DD8}|WebPrueba.csproj|solutionrelative:controllers\\nombrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NombresController.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\GithubConIvan\\practica-_1\\WebPrueba\\Controllers\\NombresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NombresController.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\GithubConIvan\\practica-_1\\WebPrueba\\Controllers\\NombresController.cs",
+              "RelativeToolTip": "Controllers\\NombresController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:13:21.972Z",
+              "EditorCaption": ""
             }
           ]
         }
